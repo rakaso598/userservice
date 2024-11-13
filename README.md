@@ -1,14 +1,14 @@
-# 유저 관리 마이크로서비스
+# User management microservice
 
-## 기술 스택
+## Technology Stack
 - **H2 Database**
 - **Spring Boot**
 - **JDK 17**
 - **Gradle**
 
-## 목표
-H2 Database를 활용하여 유저 관리 기능을 제공하는 마이크로서비스
+## target
+Microservice that provides user management functions using H2 Database
 
-## 특징
-- Docker를 이용해 컨테이너화된 스프링부트 애플리케이션
-- 유저 데이터 관리 (생성, 조회, 삭제) 기능 지원
+## characteristic
+- Containerized Spring Boot application using Docker
+- Supports user data management (creation, inquiry, deletion) functions
