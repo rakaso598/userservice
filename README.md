@@ -16,4 +16,5 @@ Microservice that provides user management functions using H2 Database
 ---  
 
 ## completed work
-- (2024-11-13) Docker image creation successful  
+- (2024-11-13) Docker image creation successful
+- (2024-11-13) Docker Compose-Up successful with Node Middleware  
